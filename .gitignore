@@ -1,0 +1,10 @@
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+DerivedData/
+build/
+*.playground
+
+.DS_Store
+
+Packages/
